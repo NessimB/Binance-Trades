@@ -1,0 +1,25 @@
+{
+  "name": "binance-trades",
+  "version": "1.0.0",
+  "description": "Get All Binance AggTrades for a currency",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NessimB/Binance-Trades.git"
+  },
+  "author": "NessimB",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NessimB/Binance-Trades/issues"
+  },
+  "homepage": "https://github.com/NessimB/Binance-Trades#readme",
+  "dependencies": {
+    "delay": "^4.2.0",
+    "node-fetch": "^2.6.0",
+    "prompt": "^1.0.0"
+  }
+}
